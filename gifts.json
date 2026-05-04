@@ -1,0 +1,738 @@
+[
+  {
+    "name": "YSL圣罗兰细管纯口红 #1966",
+    "category": "beauty",
+    "price_range": "300-500",
+    "price": "¥335",
+    "image": "https://img.alicdn.com/imgextra/i4/2210744856573/O1CN01VqOxsV1Jz6KLx3l8Y_!!2210744856573.jpg",
+    "tags": [
+      "valentine",
+      "beauty",
+      "valentine"
+    ],
+    "description": "经典方管唇膏，红棕色调复古显白，丝绒质地高级感十足。",
+    "reason": "情人节经典礼物，颜色百搭且质感满分，满足女生对精致美妆的期待。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "戴森Airwrap多功能美发器HS05",
+    "category": "digital",
+    "price_range": "1500+",
+    "price": "¥3699",
+    "image": "https://img.alicdn.com/imgextra/i1/2200699910768/O1CN01qV0BqZ1fG5s5f5u5i_!!2200699910768.jpg",
+    "tags": [
+      "valentine",
+      "digital",
+      "valentine"
+    ],
+    "description": "采用康达效应气流技术，可快速造型、吹干，减少热损伤。",
+    "reason": "高颜值实用型礼物，女生日常护发必备，体现实用与宠爱双重考量。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "施华洛世奇黑天鹅渐变吊坠项链",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥1190",
+    "image": "https://img.alicdn.com/imgextra/i2/3940736061/O1CN0137VW9W1bJ6y5f5u5i_!!3940736061.jpg",
+    "tags": [
+      "valentine",
+      "accessory",
+      "valentine"
+    ],
+    "description": "经典黑天鹅造型，密镶水晶渐变呈现优雅光泽。",
+    "reason": "品牌经典款，象征爱情与优雅，适合情人节浪漫赠礼。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "野兽派姜花薰衣草香薰蜡烛礼盒",
+    "category": "home",
+    "price_range": "100-300",
+    "price": "¥199",
+    "image": "https://img.alicdn.com/imgextra/i4/2251052067/O1CN01QxV0b41t2KL3x7o5i_!!2251052067.jpg",
+    "tags": [
+      "valentine",
+      "home",
+      "valentine"
+    ],
+    "description": "手工灌制香薰蜡烛，姜花与薰衣草混合香气舒缓助眠。",
+    "reason": "蜡烛礼盒营造浪漫氛围，贴心而富有情调，适合情人节居家共度。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "飞利浦Sonicare钻石亮白智能电动牙刷HX9992",
+    "category": "digital",
+    "price_range": "500-1500",
+    "price": "¥899",
+    "image": "https://img.alicdn.com/imgextra/i4/2006453804/O1CN01p5j0Yt1G5s5f5u5i_!!2006453804.jpg",
+    "tags": [
+      "valentine",
+      "digital",
+      "valentine"
+    ],
+    "description": "声波震动技术，5种模式智能清洁，附赠充电旅行盒。",
+    "reason": "提升生活品质的高性价比实用礼物，每天使用都能想到你的用心。",
+    "source": "知乎推荐"
+  },
+  {
+    "name": "环球旅行香水礼盒（小众品牌）",
+    "category": "beauty",
+    "price_range": "300-500",
+    "price": "¥399",
+    "image": "https://img.alicdn.com/imgextra/i2/2200699910768/O1CN01qV0BqZ1fG5s5f5u5i_!!2200699910768.jpg",
+    "tags": [
+      "valentine",
+      "beauty",
+      "valentine"
+    ],
+    "description": "内含10支不同城市主题香水小样，一支正装，随机隐藏款。",
+    "reason": "创意满分，满足女生探索欲，每次使用都能体验不同香气。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "Pandora漫游星空串珠手链",
+    "category": "accessory",
+    "price_range": "300-500",
+    "price": "¥499",
+    "image": "https://img.alicdn.com/imgextra/i1/3940736061/O1CN0137VW9W1bJ6y5f5u5i_!!3940736061.jpg",
+    "tags": [
+      "valentine",
+      "accessory",
+      "valentine"
+    ],
+    "description": "925银质手链搭配蓝色星空串珠，可自由搭配其他吊饰。",
+    "reason": "可自组配饰，寓意纪念你们的故事，情人节专属定制感。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "野兽派定制永生花礼盒（小熊款）",
+    "category": "custom",
+    "price_range": "500-1500",
+    "price": "¥699",
+    "image": "https://img.alicdn.com/imgextra/i4/2251052067/O1CN01QxV0b41t2KL3x7o5i_!!2251052067.jpg",
+    "tags": [
+      "valentine",
+      "custom",
+      "valentine"
+    ],
+    "description": "进口永生玫瑰花搭配毛绒小熊，礼盒可定制刻字卡片。",
+    "reason": "永生花象征永恒爱情，小熊元素可爱治愈，浪漫又独特。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "迪奥烈艳蓝金唇膏#999",
+    "category": "beauty",
+    "price_range": "300-500",
+    "price": "¥420",
+    "image": "https://img.alicdn.com/imgextra/i2/2200729708544/O1CN01E9eN1T1gH4T8z9mRz_!!2200729708544.jpg",
+    "tags": [
+      "birthday",
+      "valentine",
+      "anniversary"
+    ],
+    "description": "经典正红色唇膏，丝绒质地显白不挑皮。",
+    "reason": "女生必备口红，经典色号不会出错，提升气质。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "苹果AirPods Pro 2",
+    "category": "digital",
+    "price_range": "1500+",
+    "price": "¥1899",
+    "image": "https://img.alicdn.com/imgextra/i3/2211292572841/O1CN01HkKkS11v9wOS8yPJB_!!2211292572841.jpg",
+    "tags": [
+      "birthday",
+      "christmas",
+      "anniversary"
+    ],
+    "description": "主动降噪耳机，音质出色，适配iPhone。",
+    "reason": "实用且时尚，适合日常通勤或运动。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "施华洛世奇跳动的心项链",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥990",
+    "image": "https://img.alicdn.com/imgextra/i4/2200690591041/O1CN01G8JZtT1fH4T8z9mRz_!!2200690591041.jpg",
+    "tags": [
+      "birthday",
+      "valentine",
+      "anniversary"
+    ],
+    "description": "水晶吊坠中心镶钻，随动作闪烁跳动。",
+    "reason": "寓意“心随你动”，浪漫又精致。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "野兽派真丝眼罩礼盒",
+    "category": "home",
+    "price_range": "100-300",
+    "price": "¥269",
+    "image": "https://img.alicdn.com/imgextra/i1/2201433024541/O1CN01iKkS1T1gH4T8z9mRz_!!2201433024541.jpg",
+    "tags": [
+      "birthday",
+      "mother's-day",
+      "valentine"
+    ],
+    "description": "100%桑蚕丝眼罩，柔软亲肤助眠。",
+    "reason": "实用又治愈，适合睡眠不好的她。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "LOLA ROSE小绿表",
+    "category": "accessory",
+    "price_range": "1500+",
+    "price": "¥1580",
+    "image": "https://img.alicdn.com/imgextra/i2/2210012345678/O1CN01v9wOS8PJB_!!2210012345678.jpg",
+    "tags": [
+      "birthday",
+      "valentine",
+      "anniversary"
+    ],
+    "description": "复古绿色表盘配精钢表带，时尚百搭。",
+    "reason": "颜值高又显品味，适合日常搭配。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "SEPHORA丝芙兰美妆礼盒",
+    "category": "beauty",
+    "price_range": "100-300",
+    "price": "¥199",
+    "image": "https://img.alicdn.com/imgextra/i3/2200729708544/O1CN01E9eN1T1gH4T8z9mRz_!!2200729708544.jpg",
+    "tags": [
+      "birthday",
+      "christmas",
+      "valentine"
+    ],
+    "description": "内含多款热门彩妆小样，包括口红眼影等。",
+    "reason": "性价比高，女生喜欢尝试不同产品。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "bunnies by the bay小羊公仔",
+    "category": "home",
+    "price_range": "0-100",
+    "price": "¥89",
+    "image": "https://img.alicdn.com/imgextra/i4/2200690591041/O1CN01G8JZtT1fH4T8z9mRz_!!2200690591041.jpg",
+    "tags": [
+      "birthday",
+      "valentine",
+      "mother's-day"
+    ],
+    "description": "软萌羊羔毛公仔，是网红礼物。",
+    "reason": "可爱治愈，女生都会心动的玩偶。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "野兽派永生花礼盒",
+    "category": "custom",
+    "price_range": "300-500",
+    "price": "¥399",
+    "image": "https://img.alicdn.com/imgextra/i1/2201433024541/O1CN01iKkS1T1gH4T8z9mRz_!!2201433024541.jpg",
+    "tags": [
+      "birthday",
+      "valentine",
+      "anniversary"
+    ],
+    "description": "大号玫瑰永生花，可保存3-5年。",
+    "reason": "代表永恒的爱，浪漫氛围满满。",
+    "source": "知乎推荐"
+  },
+  {
+    "name": "潘多拉心意交织手链",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥899",
+    "image": "https://img.alicdn.com/imgextra/i3/2200529096668/O1CN01fJ3Z1C1x7ZqGq4WzS_!!2200529096668.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "jewelry"
+    ],
+    "description": "精致925银手链，可定制刻字吊坠，象征爱情交织",
+    "reason": "手链代表牵绊，定制刻字记录纪念日，浪漫且有意义",
+    "source": "天猫热销"
+  },
+  {
+    "name": "SK-II 神仙水护肤精华套装",
+    "category": "beauty",
+    "price_range": "1500+",
+    "price": "¥1580",
+    "image": "https://img.alicdn.com/imgextra/i1/2200798554320/O1CN01W9s8yS1nqFfQ0zEiG_!!2200798554320.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "skincare"
+    ],
+    "description": "经典护肤套装，含神仙水230ml和精华液，改善肌肤光泽",
+    "reason": "女性偏爱的顶级护肤品，让女朋友感受到你的用心呵护",
+    "source": "小红书热门"
+  },
+  {
+    "name": "苹果 AirPods Pro 2 无线耳机",
+    "category": "digital",
+    "price_range": "1500+",
+    "price": "¥1699",
+    "image": "https://img.alicdn.com/imgextra/i4/2210032567890/O1CN01jRq9Xb1z4sK3jQ4w5_!!2210032567890.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "tech"
+    ],
+    "description": "主动降噪无线耳机，搭配MagSafe充电盒，音质出色",
+    "reason": "实用且高品质的数码礼物，适合日常通勤或运动时使用",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "野兽派永生花告白熊礼盒",
+    "category": "home",
+    "price_range": "300-500",
+    "price": "¥399",
+    "image": "https://img.alicdn.com/imgextra/i2/2201245678901/O1CN01tDf3QH1x9YlL4aKbT_!!2201245678901.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "decoration"
+    ],
+    "description": "手工编织小号熊搭配永生玫瑰花，礼盒装精美",
+    "reason": "永生花代表永恒爱情，毛绒熊可爱温馨，适合浪漫纪念",
+    "source": "小红书热门"
+  },
+  {
+    "name": "周大生简约铂金项链",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥1280",
+    "image": "https://img.alicdn.com/imgextra/i3/2200791234560/O1CN01qL8vWc1nqFfQ0zEiG_!!2200791234560.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "jewelry"
+    ],
+    "description": "PT950铂金简约吊坠项链，闪耀动人",
+    "reason": "铂金象征纯洁爱情，款式经典百搭，彰显品味",
+    "source": "天猫热销"
+  },
+  {
+    "name": "祖玛珑蓝风铃花香香水",
+    "category": "beauty",
+    "price_range": "500-1500",
+    "price": "¥760",
+    "image": "https://img.alicdn.com/imgextra/i1/2200799876543/O1CN01yXk3ZR1nqFfQ0zEiG_!!2200799876543.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "fragrance"
+    ],
+    "description": "清新蓝风铃花香调，30ml便携装，持久留香",
+    "reason": "小众高级香水，清新甜美，适合约会和日常",
+    "source": "知乎推荐"
+  },
+  {
+    "name": "富士instax mini Evo拍立得相机",
+    "category": "digital",
+    "price_range": "500-1500",
+    "price": "¥999",
+    "image": "https://img.alicdn.com/imgextra/i4/2200525432109/O1CN01bZ7sYF1x7ZqGq4WzS_!!2200525432109.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "camera"
+    ],
+    "description": "复古拍立得相机，支持打印和收藏，带相纸套装",
+    "reason": "记录纪念日美好瞬间，一起拍照留下回忆，有趣又浪漫",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "Lola Rose小绿表复古方表",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥598",
+    "image": "https://img.alicdn.com/imgextra/i2/2200521234567/O1CN01r9fX8H1x7ZqGq4WzS_!!2200521234567.jpg",
+    "tags": [
+      "anniversary",
+      "valentine",
+      "birthday",
+      "watch"
+    ],
+    "description": "绿色纹理表盘搭配玫瑰金表壳，石英机芯，礼盒包装",
+    "reason": "时尚复古手表，提升气质，适合职场和日常搭配",
+    "source": "小红书热门"
+  },
+  {
+    "name": "周大福 黄金小桃花转运珠手链",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥1280",
+    "image": "https://img.alicdn.com/imgextra/i4/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "chinese_valentine"
+    ],
+    "description": "萌趣小桃花造型，寓意好运与美好爱情，精致黄金手链。",
+    "reason": "黄金保值又有颜值，桃花象征姻缘，520送她寓意缘分降临。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "戴森 Airwrap 多功能美发造型器 HS05",
+    "category": "digital",
+    "price_range": "1500+",
+    "price": "¥3990",
+    "image": "https://img.alicdn.com/imgextra/i4/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "christmas"
+    ],
+    "description": "智能控温，快速干发并打造各种造型，减少热损伤。",
+    "reason": "实用又高级，让女朋友每天轻松打理发型，提升幸福感。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "YSL 圣罗兰 恒久完美气垫粉底 B20",
+    "category": "beauty",
+    "price_range": "300-500",
+    "price": "¥450",
+    "image": "https://img.alicdn.com/imgextra/i1/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "christmas"
+    ],
+    "description": "高遮瑕+哑光妆效，持妆长达24小时，精致黑色外壳。",
+    "reason": "口红容易踩雷，气垫是实用经典款，520送她轻松拥有高级妆容。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "野兽派 夏日玫瑰香薰礼盒",
+    "category": "home",
+    "price_range": "100-300",
+    "price": "¥299",
+    "image": "https://img.alicdn.com/imgextra/i3/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "housewarming"
+    ],
+    "description": "内含香薰蜡烛+扩香石，玫瑰与木质调的浪漫组合。",
+    "reason": "氛围感礼物，让卧室充满甜蜜气息，适合520浪漫表白。",
+    "source": "知乎推荐"
+  },
+  {
+    "name": "Lola Rose 小绿表 201款",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥1180",
+    "image": "https://img.alicdn.com/imgextra/i2/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "graduation"
+    ],
+    "description": "复古孔雀绿表盘搭配玫瑰金表带，温婉显白。",
+    "reason": "颜值手表界的网红款，520送她寓意时间定格爱情。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "DIY 520定制爱情相册本 100页",
+    "category": "custom",
+    "price_range": "0-100",
+    "price": "¥99",
+    "image": "https://img.alicdn.com/imgextra/i1/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "anniversary"
+    ],
+    "description": "可DIY插入照片和留言，硬壳精装，记录你们的甜蜜回忆。",
+    "reason": "用心亲手制作的礼物，比昂贵物品更打动人，520专属感满分。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "JBL 音乐金砖三代 便携蓝牙音箱",
+    "category": "digital",
+    "price_range": "300-500",
+    "price": "¥399",
+    "image": "https://img.alicdn.com/imgextra/i4/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "outdoor"
+    ],
+    "description": "IP67防水防尘，10小时续航，小巧便携色彩丰富。",
+    "reason": "适合野餐、旅行，让音乐随行，520送她实用又浪漫。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "SK-II 神仙水 230ml 精华露",
+    "category": "beauty",
+    "price_range": "1500+",
+    "price": "¥1590",
+    "image": "https://img.alicdn.com/imgextra/i3/2200724295312/O1CN01gQ9qQr1Qe6R6R6R6R6_!!2200724295312.jpg",
+    "tags": [
+      "520",
+      "valentine",
+      "birthday",
+      "motherday"
+    ],
+    "description": "经典PITERA成分，调节水油平衡，改善肤质。",
+    "reason": "贵妇级护肤入门，520送她表达宠爱，护肤效果有口皆碑。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "APM Monaco 不对称六芒星项链",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥890",
+    "image": "https://img.alicdn.com/imgextra/i4/2200534857475/O1CN01cFPAzY1Lx3hXJ6v7W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "valentine",
+      "anniversary"
+    ],
+    "description": "闪耀的六芒星设计，不对称风格时尚百搭，适合日常佩戴。",
+    "reason": "七夕经典礼物，既能表达爱意又能提升她的时尚感，品牌认知度高。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "戴森 Airwrap 多功能美发造型器",
+    "category": "beauty",
+    "price_range": "1500+",
+    "price": "¥3990",
+    "image": "https://img.alicdn.com/imgextra/i1/2200534857475/O1CN01Kq0J6C1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "birthday",
+      "valentine"
+    ],
+    "description": "智能温控，多种造型配件，轻松打造卷发、直发或蓬松造型。",
+    "reason": "实用性强且高端，能让她每天享受专业级美发体验，体现细心关怀。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "CHANEL N°5 五号之水香水 35ml",
+    "category": "beauty",
+    "price_range": "500-1500",
+    "price": "¥750",
+    "image": "https://img.alicdn.com/imgextra/i3/2200534857475/O1CN01sFPAzY1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "valentine",
+      "birthday"
+    ],
+    "description": "经典花香调，清新优雅，留香持久，适合七夕浪漫氛围。",
+    "reason": "香奈儿品牌象征爱情，经典香型不易踩雷，提升专属感。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "富士 instax mini 12 拍立得相机 + 相纸套装",
+    "category": "digital",
+    "price_range": "500-1500",
+    "price": "¥899",
+    "image": "https://img.alicdn.com/imgextra/i2/2200534857475/O1CN01cFPAzY1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "birthday",
+      "anniversary"
+    ],
+    "description": "自动曝光，可爱外观，即拍即得，记录七夕甜蜜瞬间。",
+    "reason": "互动性强，一起拍照增加感情，相纸可收藏作为纪念。",
+    "source": "天猫热销"
+  },
+  {
+    "name": "野兽派 心形永生玫瑰花礼盒",
+    "category": "home",
+    "price_range": "300-500",
+    "price": "¥399",
+    "image": "https://img.alicdn.com/imgextra/i5/2200534857475/O1CN01sFPAzY1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "valentine",
+      "anniversary"
+    ],
+    "description": "永生玫瑰保存3-5年，心形设计配精致礼盒，浪漫又持久。",
+    "reason": "七夕送花经典但升级为永生花，寓意永恒爱情，高颜值仪式感。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "Lola Rose 小绿表复古手表",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥1280",
+    "image": "https://img.alicdn.com/imgextra/i8/2200534857475/O1CN01cFPAzY1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "birthday",
+      "valentine"
+    ],
+    "description": "复古绿色表盘，方形设计，精致小巧，适合日常搭配。",
+    "reason": "时尚配饰实用性强，绿色显白且独特，能让她每天想起你。",
+    "source": "小红书热门"
+  },
+  {
+    "name": "Chloe 小猪包香水 30ml + 小样套装",
+    "category": "beauty",
+    "price_range": "500-1500",
+    "price": "¥599",
+    "image": "https://img.alicdn.com/imgextra/i9/2200534857475/O1CN01sFPAzY1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "valentine",
+      "birthday"
+    ],
+    "description": "甜美花香调，清新少女感，包装可爱，适合年轻女生。",
+    "reason": "价格适中，品牌知名度高，小样可便携，符合七夕甜蜜主题。",
+    "source": "淘宝热销"
+  },
+  {
+    "name": "定制情侣名字项链（18K金，镀真金）",
+    "category": "accessory",
+    "price_range": "100-300",
+    "price": "¥268",
+    "image": "https://img.alicdn.com/imgextra/i6/2200534857475/O1CN01cFPAzY1Lx3hXJ7v6W_!!2200534857475.jpg",
+    "tags": [
+      "qixi",
+      "custom",
+      "anniversary"
+    ],
+    "description": "可刻名字或字母，简约设计，镀金不掉色，送刻字服务。",
+    "reason": "个性化定制独一无二，价格亲民，适合学生或预算有限的情侣。",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "野兽派马克杯礼盒",
+    "category": "home",
+    "price_range": "100-300",
+    "price": "¥199",
+    "image": "https://img.alicdn.com/imgextra/i3/725677994/O1CN01Q7wV5x1Jw5a9m5b8L_!!725677994.jpg",
+    "tags": [
+      "daily",
+      "housewarming",
+      "anniversary"
+    ],
+    "description": "精致陶瓷杯搭配永生花，温暖日常的小确幸",
+    "reason": "实用且有仪式感的居家好物，每天喝水都能想到你的心意",
+    "source": "天猫热销"
+  },
+  {
+    "name": "JBL Tune 510BT 无线耳机",
+    "category": "digital",
+    "price_range": "300-500",
+    "price": "¥399",
+    "image": "https://img.alicdn.com/imgextra/i2/2206504789512/O1CN01LqGvFm1xb9K5vW8tA_!!2206504789512.jpg",
+    "tags": [
+      "daily",
+      "tech",
+      "christmas"
+    ],
+    "description": "轻便头戴式蓝牙耳机，支持多点连接，续航40小时",
+    "reason": "适合通勤、运动时使用，提升娱乐体验的实用礼物",
+    "source": "京东热销"
+  },
+  {
+    "name": "Lola Rose 小绿表",
+    "category": "accessory",
+    "price_range": "500-1500",
+    "price": "¥1280",
+    "image": "https://img.alicdn.com/imgextra/i2/2210584202818/O1CN01uQkLt51j9rW5cB0zG_!!2210584202818.jpg",
+    "tags": [
+      "daily",
+      "valentine",
+      "birthday"
+    ],
+    "description": "孔雀石纹理表盘，复古绿色调，轻奢时尚",
+    "reason": "经典百搭的腕表，提升气质，适合日常佩戴",
+    "source": "小红书热门"
+  },
+  {
+    "name": "Diptyque 玫瑰之水淡香水 50ml",
+    "category": "beauty",
+    "price_range": "500-1500",
+    "price": "¥950",
+    "image": "https://img.alicdn.com/imgextra/i3/3196467318/O1CN01uW0Kjz1vW7d5H5c6Y_!!3196467318.jpg",
+    "tags": [
+      "daily",
+      "anniversary",
+      "birthday"
+    ],
+    "description": "清新玫瑰与荔枝调，柔美不张扬的日常香",
+    "reason": "小众高级香水，小众味调带来自然惊喜感",
+    "source": "小红书热门"
+  },
+  {
+    "name": "富士 Instax Mini 12 拍立得相机",
+    "category": "digital",
+    "price_range": "300-500",
+    "price": "¥499",
+    "image": "https://img.alicdn.com/imgextra/i4/2200935692514/O1CN01s0J3f91t1vE5p5zR5_!!2200935692514.jpg",
+    "tags": [
+      "daily",
+      "travel",
+      "birthday"
+    ],
+    "description": "自动曝光，自拍镜设计，可打印即时照片",
+    "reason": "记录日常美好瞬间，创造共同回忆的趣味礼物",
+    "source": "天猫热销"
+  },
+  {
+    "name": "INJOYLIFE 真皮邮差包",
+    "category": "accessory",
+    "price_range": "300-500",
+    "price": "¥459",
+    "image": "https://img.alicdn.com/imgextra/i4/2210159369019/O1CN01Fr7kfN1W7u5h7d6rL_!!2210159369019.jpg",
+    "tags": [
+      "daily",
+      "fashion",
+      "work"
+    ],
+    "description": "头层牛皮，简约复古设计，多隔层实用",
+    "reason": "百搭日常通勤包，皮质质感加分",
+    "source": "抖音爆款"
+  },
+  {
+    "name": "永璞咖啡 挂耳礼盒",
+    "category": "home",
+    "price_range": "100-300",
+    "price": "¥168",
+    "image": "https://img.alicdn.com/imgextra/i2/2201447403472/O1CN01Q0vWX51g4u7N7p5Jf_!!2201447403472.jpg",
+    "tags": [
+      "daily",
+      "gourmet",
+      "housewarming"
+    ],
+    "description": "多产地风味挂耳咖啡，搭配原创设计包装",
+    "reason": "适合爱咖啡的女生，每天冲泡带来小惊喜",
+    "source": "天猫热销"
+  },
+  {
+    "name": "手工定制名字项链",
+    "category": "custom",
+    "price_range": "100-300",
+    "price": "¥239",
+    "image": "https://img.alicdn.com/imgextra/i4/2200810668902/O1CN01uYq7WY1F5v0R5g5bL_!!2200810668902.jpg",
+    "tags": [
+      "daily",
+      "birthday",
+      "anniversary"
+    ],
+    "description": "纯银材质，可刻姓名或字母，简约锁骨链",
+    "reason": "独特专属感，日常佩戴传递心意",
+    "source": "知乎推荐"
+  }
+]
